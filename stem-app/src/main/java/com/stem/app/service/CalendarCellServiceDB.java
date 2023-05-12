@@ -1,4 +1,4 @@
-package com.calendar.service;
+package com.stem.app.controllers;
 
 import java.nio.channels.ConnectionPendingException;
 import java.sql.*;
